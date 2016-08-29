@@ -2,7 +2,7 @@
 
 [The Go Programming Language](https://golang.org/)
 
-```golang
+```go
 package main
 
 import "fmt"
